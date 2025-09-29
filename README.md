@@ -38,5 +38,11 @@ This project generates synthetic medical images using **Generative Adversarial N
 
 ---
 
+##  Note
+The dataset provided in this repository is **only a sample** for demonstration.  
+
+---
+
 ## ⚖️ License
 This project is for **educational and research purposes only**.  
+
